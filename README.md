@@ -18,15 +18,11 @@ mvnw clean test
 
 you will need to have reliable internet connection to allow maven download all related dependencies. 
 
-
-
-#### 2. View the Coverage Test Result
-
 To view the coverage test result, open the file at: `target/site/jacoco/index.html`
 
 
 
-#### 3. Run Mutation Test & Result
+#### 2. Run Mutation Test & Result
 
 From the project root folder, execute:
 

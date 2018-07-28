@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
-This is the sample code repository for my presentation at [KongKow IT Medan](https://kongkowitmedan.github.io/meetup/) meetup __#12 - Intro to Unit Test & Metrics__.
+This is the sample code repository for my presentation at [KongKow IT Medan](https://kongkowitmedan.github.io/meetup/) meetup __#12 - Intro to Unit Test & Metrics__ (28th July 2018, at UPH, Medan, Indonesia)
 
 
 
@@ -36,7 +36,7 @@ Check folder and open file `target/pit-reports/<YYYYMMDDHHMI>/index.html`, for 
 
 ## Slides
 
-- [Meetup Slides](https://speakerdeck.com/mkdika/intro-to-java-unit-test-and-metrics)
+- [Meetup Slides](https://speakerdeck.com/mkdika/intro-to-unit-test-and-metrics)
 
 
 
